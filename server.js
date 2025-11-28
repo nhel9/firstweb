@@ -6,8 +6,8 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // --- START: Replace the bracketed information with your required details ---
-const fullName = "John A. Doe"; // Replace with your Full Name
-const classSection = "BAXXXX"; // Replace with your Class Section
+const fullName = "Nhel Algin M. Sangco"; // Replace with your Full Name
+const classSection = "BSIT BA 4101"; // Replace with your Class Section
 const individualQuotation = "The only way to do great work is to love what you do."; // Replace with your Individual Quotation
 const appMessage = "SUCCESS: The Node.js back-end application is running!";
 // --- END: Replace ---
